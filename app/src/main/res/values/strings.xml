@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RedditDemo</string>
+    <string name="post_details_title">Post Details</string>
+    <string name="back_button_content_description">Back</string>
+    <string name="post_image_content_description">Post Image</string>
+    <string name="upvotes_label">Upvotes: %d</string>
+    <string name="comments_label">Comments: %d</string>
+    <string name="post_image_accessibility">The image associated with the post</string>
+</resources>
